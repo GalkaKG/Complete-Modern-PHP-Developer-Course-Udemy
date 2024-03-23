@@ -22,3 +22,4 @@ $age = 20;
 $age = 30;
 
 echo $age;
+
